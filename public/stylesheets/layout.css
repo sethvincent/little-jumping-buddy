@@ -16,6 +16,15 @@
 
 /* #Site Styles
 ================================================== */
+p {
+  color: #724B45;
+  font-family: "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;;
+}
+
+div.message{
+  text-align: center;
+  margin-top: 300px;
+}
 
 /* #Page Styles
 ================================================== */
